@@ -1,0 +1,14 @@
+
+*.log
+
+*.bin
+
+UnityOne/UserSettings/
+
+UnityOne/Temp/
+
+UnityOne/ProjectSettings/
+
+UnityOne/Library/
+
+.DS_Store
