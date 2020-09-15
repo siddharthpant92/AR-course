@@ -1,5 +1,9 @@
 # AR-course
-"Build 15 Augmented Reality (AR) apps with Unity &amp; Vuforia" on Udemy
+`Build 15 Augmented Reality (AR) apps with Unity and Vuforia` on Udemy
+
+Mobile Phone: OnePlus 6T with Android Version 10 / OxygenOS version 10.3
+Unity version: 2020.1
+Vuforia: 9.4.6
 
 
 ### Helpful tricks
